@@ -1,5 +1,5 @@
 # ws_server
-This is a web socket server implement by C.</br>
+This is a web socket server implemented with C.</br>
 You can quickly start the server by specifying IP, Port, and message processing functions.</br>
 The project also has built-in lightweight logger.
 
