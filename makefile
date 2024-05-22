@@ -18,5 +18,3 @@ all:
 
 clean:
 	rm -rf $(TARGET)
-	rm -rf $(TESTTARGET)
-
